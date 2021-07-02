@@ -1,23 +1,21 @@
-site: Gesko
-title: Gesko
+site: Scattered Unoriginal
+title: Scattered Unoriginal
 description: >-
-  just a minimalist, personal blog
+    A collection of scattered thoughts, writings, and experiments
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
-timezone: Rome
-repo: https://github.com/p0wex/Gesko # site repo [optional]
+timezone: Boston
 data-theme: dark # default theme "dark" | "light"
 
 author:
-  name: p0wex
-  bio: just a minimalist, personal blog
-  username: p0wex # general username
-  github: p0wex # github username
-  twitter: P0Wex # twitter username
-  email: your-email@email.com # email adress
+  name: Christopher Lin
+  bio: Lapsed programmer, aspiring brain scientist, and Theory enthusiast 
+  username: clin045 # general username
+  github: clin045 # github username
+  twitter: clin045 # twitter username
 
 # URL settings
-url: "https://powex.ml" #
+url: "https://scatteredunoriginal.com" #
 baseurl: "" # leave blank if not wishd
 permalink: pretty 
 

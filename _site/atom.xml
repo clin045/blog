@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Gesko</title>
- <link href="https://powex.ml/atom.xml" rel="self"/>
- <link href="https://powex.ml/"/>
- <updated>2021-07-02T19:39:57+00:00</updated>
- <id>https://powex.ml</id>
+ <title>Scattered Unoriginal</title>
+ <link href="https://scatteredunoriginal.com/atom.xml" rel="self"/>
+ <link href="https://scatteredunoriginal.com/"/>
+ <updated>2021-07-02T19:58:02+00:00</updated>
+ <id>https://scatteredunoriginal.com</id>
  <author>
-   <name>p0wex</name>
-   <email>your-email@email.com</email>
+   <name>Christopher Lin</name>
+   <email></email>
  </author>
 
  
  <entry>
    <title>Further Reflections on Photography</title>
-   <link href="https://powex.ml/2020/12/13/photography"/>
+   <link href="https://scatteredunoriginal.com/2020/12/13/photography"/>
    <updated>2020-12-13T05:00:00+00:00</updated>
-   <id>https://powex.ml/2020/12/13/photography</id>
+   <id>https://scatteredunoriginal.com/2020/12/13/photography</id>
    <content type="html">&lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;In the past half year or so, I have immersed myself more deeply in the art of photography than ever before. A lucky acquisition of a flatbed scanner from Craigslist meant that I could develop and scan photos all from the comfort of my own studio apartment. (The onset of the pandemic had put a temporary halt to my photography, as the Harvard library, which I relied on for its scanners, had shut down for the foreseeable future.) Now that I was able to shoot a roll of film during the day and see the results that very evening, I was more motivated than ever to explore the art of photography rather than simply photographic technique.&lt;/p&gt;
@@ -87,9 +87,9 @@
  
  <entry>
    <title>Burrows</title>
-   <link href="https://powex.ml/2020/03/22/burrows"/>
+   <link href="https://scatteredunoriginal.com/2020/03/22/burrows"/>
    <updated>2020-03-22T05:00:00+00:00</updated>
-   <id>https://powex.ml/2020/03/22/burrows</id>
+   <id>https://scatteredunoriginal.com/2020/03/22/burrows</id>
    <content type="html">&lt;p&gt;You would think that now that the world has come to a halt, I would find
 more time to write. But, quite to the contrary, I’ve been having trouble
 reading, let alone writing. It’s near impossible for my mind not to
@@ -143,9 +143,9 @@ hope that my instincts are wrong. I’ll keep you updated.&lt;/p&gt;
  
  <entry>
    <title>Fireworks Over Boston Common</title>
-   <link href="https://powex.ml/2020/01/23/fireworks"/>
+   <link href="https://scatteredunoriginal.com/2020/01/23/fireworks"/>
    <updated>2020-01-23T05:00:00+00:00</updated>
-   <id>https://powex.ml/2020/01/23/fireworks</id>
+   <id>https://scatteredunoriginal.com/2020/01/23/fireworks</id>
    <content type="html">&lt;p&gt;My sister and her boyfriend visited me over New Year’s. On the day of the eve, after having our fill of window shopping at Newbury Street, we decided on a whim to go see a movie. In the darkness of the theater, we whiled away the afternoon alongside similarly bored Bostonians, and by the time we left the theater at seven, the sky too had darkened to an inky black.&lt;/p&gt;
 
 &lt;p&gt;“Do you want to go see the fireworks in the park?” she asked me, proposing yet another unplanned activity. I hadn’t even known that such festivities were taking place, much less at this early hour. I suppose it takes someone from out of town to recognize all the things that occur in your own city. (It’s strange how I feel that it’s my city, though I’ve lived here for less than a year. I attribute it to experiencing the city on foot, feeling each crack in the pavement rather than gliding high over the roads in a car.)&lt;/p&gt;
@@ -184,9 +184,9 @@ hope that my instincts are wrong. I’ll keep you updated.&lt;/p&gt;
  
  <entry>
    <title>The Doctor With a Thousand Faces</title>
-   <link href="https://powex.ml/2020/01/12/doctor"/>
+   <link href="https://scatteredunoriginal.com/2020/01/12/doctor"/>
    <updated>2020-01-12T05:00:00+00:00</updated>
-   <id>https://powex.ml/2020/01/12/doctor</id>
+   <id>https://scatteredunoriginal.com/2020/01/12/doctor</id>
    <content type="html">&lt;p&gt;The basement of the Lamont Library at Harvard is a dismal place. I always imagined the facilities of the nation’s most prestigious university to be pristine, state-of-the-art monuments to human advancement. But like so many things in the academic world, the reality is filled with seventies wood-paneled furniture, black dust, and the accumulated residue of students’ tears. Along the walls squat wooden cubicles, pale yellow finish decayed to grey from scratches that lacerate every surface. To the credit of Harvard students, I have thus far found not a single phallus etched into the soft wood, though the initials of students long gone stare back at me from the walls.&lt;/p&gt;
 
 &lt;p&gt;This is the place I have chosen to work on my medical school applications. When I have unpleasant work to do, I am drawn to the aura of stress and oppressive silence found in these academic torture chambers. I take comforting schadenfreude in the harried faces of hung-over undergrads trying to cram for exams. The more studious pupils absorbed in textbooks and 24/7 lo fi hip hop streams provide accountability when my fingers inevitably lead me to Reddit or Facebook.&lt;/p&gt;
@@ -224,9 +224,9 @@ hope that my instincts are wrong. I’ll keep you updated.&lt;/p&gt;
  
  <entry>
    <title>On Film Photography</title>
-   <link href="https://powex.ml/2019/12/23/film-and-memory"/>
+   <link href="https://scatteredunoriginal.com/2019/12/23/film-and-memory"/>
    <updated>2019-12-23T17:00:00+00:00</updated>
-   <id>https://powex.ml/2019/12/23/film_and_memory</id>
+   <id>https://scatteredunoriginal.com/2019/12/23/film_and_memory</id>
    <content type="html">&lt;p&gt;When I traveled back to my home in Alabama this past Thanksgiving, I discovered in my old room among the detritus of childhood, several canisters of negative film. Popping off the lids and giving them a cursory examination, I saw that they were the few rolls of film that I had shot during the first two years of college, before I gave up photography for the remainder of school. I did not, however, remember exactly what photographs they contained.&lt;/p&gt;
 
 &lt;p&gt;Since childhood I had an affinity for cameras — in elementary school I spent long afternoons and evenings unaware of loneliness, making stop motion videos with Lego bricks and our family’s point-and-shoot digital camera. During vacations, I would make it my job to document the highway landscapes we drove past, the hotels we slept in, and the museums we explored (I was never too interested in taking photos of people, much to my parents’ chagrin). My eyes lingered longingly on the cameras displayed in the electronics section of Costco during our family’s weekly grocery trips. But a high quality camera always seemed prohibitively expensive and out of reach.&lt;/p&gt;
@@ -312,9 +312,9 @@ hope that my instincts are wrong. I’ll keep you updated.&lt;/p&gt;
  
  <entry>
    <title>On Foucault's Pendulum</title>
-   <link href="https://powex.ml/2019/05/24/foucaults-pendulum"/>
+   <link href="https://scatteredunoriginal.com/2019/05/24/foucaults-pendulum"/>
    <updated>2019-05-24T10:11:11+00:00</updated>
-   <id>https://powex.ml/2019/05/24/foucaults-pendulum</id>
+   <id>https://scatteredunoriginal.com/2019/05/24/foucaults-pendulum</id>
    <content type="html">&lt;p&gt;Foucault’s Pendulum by Italian philosopher and author Umberto Eco has been on my ever-growing to-read list for quite a while. I picked up his most well known book, The Name of the Rose, from a thrift shop a few years ago based on name recognition (The Name of the Rose was featured on one of the endless lists of author-title pairings I memorized during my stint on the high school quiz bowl team). The first few chapters were almost excruciating to read; after a lengthy and seemingly irrelevant fictional foreword, we meet our main characters who  do nothing but pontificate endlessly on medieval history and Aristotelian logic. It was clear to me why someone had decided to discard it alongside ragged copies of great literary classics like Jimmy Buffett’s Tales From Margaritaville. But thankfully, I was stuck on a plane and had nothing better to do than to power through. Soon, I was completely immersed in Eco’s 14th century world of monastic intrigue, religious power struggles, and heady debates on philosophy and theology. I couldn’t get enough of it, and it launched my interest in philosophy and Serious Literary Studies (™).&lt;/p&gt;
 
 &lt;p&gt;Now, two literature classes and a disappointingly small number of theory books later, I thought that I was ready to tackle Foucault’s Pendulum, Eco’s magnum opus (according to some people on Reddit, that is). It’s a door stopper of a book, clocking in at 623 pages, dense with untranslated Latin and French, obscure references to Renaissance history, and even more obscure references to occult traditions. It has a reputation for being borderline unreadable. “One of those books where the author tediously says next to nothing, and all the semi-litterati can’t figure out what he’s trying to say, so they conclude he must be brilliant”, rants a reviewer on Goodreads. I suspect I am precisely the semi-litterati being referred to here.&lt;/p&gt;

@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://powex.ml/sitemap.xml
+Sitemap: https://scatteredunoriginal.com/sitemap.xml
