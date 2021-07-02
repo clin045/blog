@@ -1,7 +1,7 @@
 site: Scattered Unoriginal
 title: Scattered Unoriginal
-description: >-
-    A collection of scattered thoughts, writings, and experiments
+#description: >-
+#    A collection of scattered thoughts, writings, and experiments
 googlewebfonts: Fira+Code:wght@400;500;700
 lang: en-US
 timezone: Boston
@@ -16,7 +16,7 @@ author:
 
 # URL settings
 url: "https://scatteredunoriginal.com" #
-baseurl: "" # leave blank if not wishd
+baseurl: "/" # leave blank if not wishd
 permalink: pretty 
 
 

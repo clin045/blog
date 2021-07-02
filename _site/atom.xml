@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Scattered Unoriginal</title>
- <link href="https://scatteredunoriginal.com/atom.xml" rel="self"/>
- <link href="https://scatteredunoriginal.com/"/>
- <updated>2021-07-02T20:24:29+00:00</updated>
+ <link href="https://scatteredunoriginal.com//atom.xml" rel="self"/>
+ <link href="https://scatteredunoriginal.com//"/>
+ <updated>2021-07-02T20:59:43+00:00</updated>
  <id>https://scatteredunoriginal.com</id>
  <author>
    <name>Christopher Lin</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Further Reflections on Photography</title>
-   <link href="https://scatteredunoriginal.com/2020/12/13/photography"/>
+   <link href="https://scatteredunoriginal.com//2020/12/13/photography"/>
    <updated>2020-12-13T05:00:00+00:00</updated>
    <id>https://scatteredunoriginal.com/2020/12/13/photography</id>
    <content type="html">&lt;ol&gt;
@@ -87,7 +87,7 @@
  
  <entry>
    <title>Burrows</title>
-   <link href="https://scatteredunoriginal.com/2020/03/22/burrows"/>
+   <link href="https://scatteredunoriginal.com//2020/03/22/burrows"/>
    <updated>2020-03-22T05:00:00+00:00</updated>
    <id>https://scatteredunoriginal.com/2020/03/22/burrows</id>
    <content type="html">&lt;p&gt;You would think that now that the world has come to a halt, I would find
@@ -143,7 +143,7 @@ hope that my instincts are wrong. I’ll keep you updated.&lt;/p&gt;
  
  <entry>
    <title>Fireworks Over Boston Common</title>
-   <link href="https://scatteredunoriginal.com/2020/01/23/fireworks"/>
+   <link href="https://scatteredunoriginal.com//2020/01/23/fireworks"/>
    <updated>2020-01-23T05:00:00+00:00</updated>
    <id>https://scatteredunoriginal.com/2020/01/23/fireworks</id>
    <content type="html">&lt;p&gt;My sister and her boyfriend visited me over New Year’s. On the day of the eve, after having our fill of window shopping at Newbury Street, we decided on a whim to go see a movie. In the darkness of the theater, we whiled away the afternoon alongside similarly bored Bostonians, and by the time we left the theater at seven, the sky too had darkened to an inky black.&lt;/p&gt;
@@ -184,7 +184,7 @@ hope that my instincts are wrong. I’ll keep you updated.&lt;/p&gt;
  
  <entry>
    <title>The Doctor With a Thousand Faces</title>
-   <link href="https://scatteredunoriginal.com/2020/01/12/doctor"/>
+   <link href="https://scatteredunoriginal.com//2020/01/12/doctor"/>
    <updated>2020-01-12T05:00:00+00:00</updated>
    <id>https://scatteredunoriginal.com/2020/01/12/doctor</id>
    <content type="html">&lt;p&gt;The basement of the Lamont Library at Harvard is a dismal place. I always imagined the facilities of the nation’s most prestigious university to be pristine, state-of-the-art monuments to human advancement. But like so many things in the academic world, the reality is filled with seventies wood-paneled furniture, black dust, and the accumulated residue of students’ tears. Along the walls squat wooden cubicles, pale yellow finish decayed to grey from scratches that lacerate every surface. To the credit of Harvard students, I have thus far found not a single phallus etched into the soft wood, though the initials of students long gone stare back at me from the walls.&lt;/p&gt;
@@ -224,7 +224,7 @@ hope that my instincts are wrong. I’ll keep you updated.&lt;/p&gt;
  
  <entry>
    <title>On Film Photography</title>
-   <link href="https://scatteredunoriginal.com/2019/12/23/film-and-memory"/>
+   <link href="https://scatteredunoriginal.com//2019/12/23/film-and-memory"/>
    <updated>2019-12-23T17:00:00+00:00</updated>
    <id>https://scatteredunoriginal.com/2019/12/23/film_and_memory</id>
    <content type="html">&lt;p&gt;When I traveled back to my home in Alabama this past Thanksgiving, I discovered in my old room among the detritus of childhood, several canisters of negative film. Popping off the lids and giving them a cursory examination, I saw that they were the few rolls of film that I had shot during the first two years of college, before I gave up photography for the remainder of school. I did not, however, remember exactly what photographs they contained.&lt;/p&gt;
@@ -312,7 +312,7 @@ hope that my instincts are wrong. I’ll keep you updated.&lt;/p&gt;
  
  <entry>
    <title>On Foucault's Pendulum</title>
-   <link href="https://scatteredunoriginal.com/2019/05/24/foucaults-pendulum"/>
+   <link href="https://scatteredunoriginal.com//2019/05/24/foucaults-pendulum"/>
    <updated>2019-05-24T10:11:11+00:00</updated>
    <id>https://scatteredunoriginal.com/2019/05/24/foucaults-pendulum</id>
    <content type="html">&lt;p&gt;Foucault’s Pendulum by Italian philosopher and author Umberto Eco has been on my ever-growing to-read list for quite a while. I picked up his most well known book, The Name of the Rose, from a thrift shop a few years ago based on name recognition (The Name of the Rose was featured on one of the endless lists of author-title pairings I memorized during my stint on the high school quiz bowl team). The first few chapters were almost excruciating to read; after a lengthy and seemingly irrelevant fictional foreword, we meet our main characters who  do nothing but pontificate endlessly on medieval history and Aristotelian logic. It was clear to me why someone had decided to discard it alongside ragged copies of great literary classics like Jimmy Buffett’s Tales From Margaritaville. But thankfully, I was stuck on a plane and had nothing better to do than to power through. Soon, I was completely immersed in Eco’s 14th century world of monastic intrigue, religious power struggles, and heady debates on philosophy and theology. I couldn’t get enough of it, and it launched my interest in philosophy and Serious Literary Studies (™).&lt;/p&gt;
