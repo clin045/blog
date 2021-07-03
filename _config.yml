@@ -15,8 +15,8 @@ author:
   twitter: clin045 # twitter username
 
 # URL settings
-url: "www.scatteredunoriginal.com" #
-baseurl: "/" # leave blank if not wishd
+url: "scatteredunoriginal.com" #
+baseurl:  # leave blank if not wishd
 permalink: pretty 
 
 
