@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://scatteredunoriginal.com/sitemap.xml
+Sitemap: www.scatteredunoriginal.com/sitemap.xml
