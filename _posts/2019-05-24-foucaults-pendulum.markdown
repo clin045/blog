@@ -2,6 +2,8 @@
 layout: post
 title:  "On Foucault's Pendulum"
 date:   2019-05-24 11:11:11 +0100
+tag: essay
+minute: 5
 ---
 Foucault’s Pendulum by Italian philosopher and author Umberto Eco has been on my ever-growing to-read list for quite a while. I picked up his most well known book, The Name of the Rose, from a thrift shop a few years ago based on name recognition (The Name of the Rose was featured on one of the endless lists of author-title pairings I memorized during my stint on the high school quiz bowl team). The first few chapters were almost excruciating to read; after a lengthy and seemingly irrelevant fictional foreword, we meet our main characters who  do nothing but pontificate endlessly on medieval history and Aristotelian logic. It was clear to me why someone had decided to discard it alongside ragged copies of great literary classics like Jimmy Buffett’s Tales From Margaritaville. But thankfully, I was stuck on a plane and had nothing better to do than to power through. Soon, I was completely immersed in Eco’s 14th century world of monastic intrigue, religious power struggles, and heady debates on philosophy and theology. I couldn’t get enough of it, and it launched my interest in philosophy and Serious Literary Studies (™).
 

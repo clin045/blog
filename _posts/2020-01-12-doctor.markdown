@@ -2,6 +2,8 @@
 layout: post
 title:  "The Doctor With a Thousand Faces"
 date:   2020-01-12 00:00:00 -0500
+tag: essay
+minute: 6
 ---
 The basement of the Lamont Library at Harvard is a dismal place. I always imagined the facilities of the nation’s most prestigious university to be pristine, state-of-the-art monuments to human advancement. But like so many things in the academic world, the reality is filled with seventies wood-paneled furniture, black dust, and the accumulated residue of students’ tears. Along the walls squat wooden cubicles, pale yellow finish decayed to grey from scratches that lacerate every surface. To the credit of Harvard students, I have thus far found not a single phallus etched into the soft wood, though the initials of students long gone stare back at me from the walls.
 

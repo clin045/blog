@@ -2,6 +2,8 @@
 layout: post
 title: "On Film Photography"
 date: 2019-12-23 12:00:00 -0500
+minute: 14 
+tag: essay
 ---
 
   When I traveled back to my home in Alabama this past Thanksgiving, I discovered in my old room among the detritus of childhood, several canisters of negative film. Popping off the lids and giving them a cursory examination, I saw that they were the few rolls of film that I had shot during the first two years of college, before I gave up photography for the remainder of school. I did not, however, remember exactly what photographs they contained. 

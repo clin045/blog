@@ -2,6 +2,8 @@
 layout: post
 title:  "Fireworks Over Boston Common"
 date:   2020-01-23 00:00:00 -0500
+minute: 5
+tag: essay
 ---
 
 My sister and her boyfriend visited me over New Year’s. On the day of the eve, after having our fill of window shopping at Newbury Street, we decided on a whim to go see a movie. In the darkness of the theater, we whiled away the afternoon alongside similarly bored Bostonians, and by the time we left the theater at seven, the sky too had darkened to an inky black. 

@@ -2,6 +2,8 @@
 layout: post
 title:  "Further Reflections on Photography"
 date:   2020-12-13 00:00:00 -0500
+tags: essay
+minute: 15
 ---
 1. In the past half year or so, I have immersed myself more deeply in the art of photography than ever before. A lucky acquisition of a flatbed scanner from Craigslist meant that I could develop and scan photos all from the comfort of my own studio apartment. (The onset of the pandemic had put a temporary halt to my photography, as the Harvard library, which I relied on for its scanners, had shut down for the foreseeable future.) Now that I was able to shoot a roll of film during the day and see the results that very evening, I was more motivated than ever to explore the art of photography rather than simply photographic technique. 
 
