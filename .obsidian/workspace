@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-07-05-hyperion.md",
+            "file": "_posts/2019-05-24-foucaults-pendulum.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-07-05-hyperion.md",
+                "file": "_posts/2019-05-24-foucaults-pendulum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,11 @@
   },
   "active": "58660e8738274544",
   "lastOpenFiles": [
+    "_posts/2019-05-24-foucaults-pendulum.md",
+    "_posts/2021-07-05-hyperion.md",
+    "_posts/2020-01-23-fireworks.md",
+    "_posts/2020-01-12-doctor.md",
+    "_posts/2019-12-20-film_and_memory.md",
     "_drafts/hyperion.md",
     "_drafts/dynamic functional connectivity with julia.md",
     "Untitled.md"
