@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "be83a26930657127",
+    "type": "split",
+    "children": [
+      {
+        "id": "58660e8738274544",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-07-05-hyperion.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eae9879e61c8f8b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0654d9e754b67a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ce9ffde803a9346",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "29dd86e4a3c8ce19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd820ef1a6041510",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3781b2571db3e0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c7bf370adfd1f69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2021-07-05-hyperion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "58660e8738274544",
+  "lastOpenFiles": [
+    "_drafts/hyperion.md",
+    "_drafts/dynamic functional connectivity with julia.md",
+    "Untitled.md"
+  ]
+}
