@@ -3,7 +3,7 @@ layout: post
 title:  "Dynamic Functional Connectivity with Julia"
 date:   2021-07-10 00:00:00 -0500
 tags: ['coding', 'neuroscience']
-minute: 15
+minute: 5
 ---
 
 At the Center for Brain Circuit Therapeutics, almost all of our computational research revolves around functional connectivity analysis of resting-state functional MRI (rsfMRI). While there are many subtleties in the preprocessing of rsfMRI and the interpretation of functional connectivity, the short version is:
