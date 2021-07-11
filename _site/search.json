@@ -1,19 +1,19 @@
 [
   
     {
+      "title"    : "Dynamic Functional Connectivity with Julia",
+      "category" : "",
+      "tags"     : "coding, neuroscience",
+      "url"      : "/2021/07/10/dynamic-functional-connectivity",
+      "date"     : "2021-07-10 05:00:00 +0000"
+    } ,
+  
+    {
       "title"    : "Johnny vs. Johnny",
       "category" : "",
       "tags"     : "essay, literature",
       "url"      : "/2021/07/05/hyperion",
       "date"     : "2021-07-05 15:00:00 +0000"
-    } ,
-  
-    {
-      "title"    : "Dynamic Functional Connectivity with Julia",
-      "category" : "",
-      "tags"     : "coding",
-      "url"      : "/2021/01/01/dynamic-functional-connectivity-with-julia",
-      "date"     : "2021-01-01 05:00:00 +0000"
     } ,
   
     {
