@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2021-07-10-dynamic-functional-connectivity.md",
+            "file": "_posts/2021-10-21-schltopster2021.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-07-10-dynamic-functional-connectivity.md",
+                "file": "_posts/2021-10-21-schltopster2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,9 @@
   },
   "active": "7a9e5969b450ec47",
   "lastOpenFiles": [
-    "_drafts/dynamic functional connectivity with julia.md",
+    "_posts/2021-10-21-schltopster2021.md",
     "_posts/2021-07-05-hyperion.md",
+    "_drafts/dynamic functional connectivity with julia.md",
     "_posts/2019-05-24-foucaults-pendulum.md",
     "_posts/2020-01-23-fireworks.md",
     "_posts/2020-01-12-doctor.md",
